@@ -29,8 +29,8 @@ global.my = {
 	gh: process.env.MY_GITHUB || 'https://github.com/efkidgamerdev',
 	gc: process.env.MY_GROUP || 'https://whatsapp.com/channel/0029VbBMv2IDeON5eOz38p1M',
 	ch: process.env.MY_CHANNEL || '120363423961368163@newsletter',
-	web: process.env.MY_WEBSITE || 'frankkaumba.gamer.gd',
-	email: process.env.MY_EMAIL || 'efkidgamer@gmail.com'
+	web: process.env.MY_WEBSITE || 'احمدفورکه.gamer.gd',
+	email: process.env.MY_EMAIL || 'AHMAD_bot_MD.com'
 }
 
 global.limit = {
